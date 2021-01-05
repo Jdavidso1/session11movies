@@ -15,7 +15,7 @@ class App extends React.Component {
       getClassNameApp: "App",
       getClassNameCard: "",
     }
-    this.darkmodeSwitch = this.darkmodeSwitch.bind(this);
+    this.darkModeSwitch = this.darkModeSwitch.bind(this);
   }
 
   componentDidMount() {
